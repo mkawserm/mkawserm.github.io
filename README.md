@@ -1,3 +1,1 @@
-mkawserm.github.io
-===================================
-GitHub home page desgined by kawser
+GitHub homepage desgined by kawser
